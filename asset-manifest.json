@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/car-app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/car-app/static/js/main.d7d82894.chunk.js",
+    "main.js.map": "/car-app/static/js/main.d7d82894.chunk.js.map",
+    "runtime-main.js": "/car-app/static/js/runtime-main.c35022d1.js",
+    "runtime-main.js.map": "/car-app/static/js/runtime-main.c35022d1.js.map",
+    "static/js/2.5790396b.chunk.js": "/car-app/static/js/2.5790396b.chunk.js",
+    "static/js/2.5790396b.chunk.js.map": "/car-app/static/js/2.5790396b.chunk.js.map",
+    "index.html": "/car-app/index.html",
+    "precache-manifest.a137b38f02229785ed310b0530c74303.js": "/car-app/precache-manifest.a137b38f02229785ed310b0530c74303.js",
+    "service-worker.js": "/car-app/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/car-app/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5790396b.chunk.js.LICENSE.txt": "/car-app/static/js/2.5790396b.chunk.js.LICENSE.txt",
+    "static/media/EGO.svg": "/car-app/static/media/EGO.d40352cb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c35022d1.js",
+    "static/js/2.5790396b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d7d82894.chunk.js"
+  ]
+}
