@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea7081cb53f53395ad3d2d3877521e71",
+    "revision": "22959d7e762bd4b01abdf6b4f8cca560",
     "url": "/car-app/index.html"
   },
   {
-    "revision": "2479e8bad82701e8213e",
+    "revision": "204d7aefe39d7cbdc7bc",
     "url": "/car-app/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/car-app/static/js/2.5790396b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2479e8bad82701e8213e",
-    "url": "/car-app/static/js/main.bfca687a.chunk.js"
+    "revision": "204d7aefe39d7cbdc7bc",
+    "url": "/car-app/static/js/main.0b995fbd.chunk.js"
   },
   {
     "revision": "beebe083e77bfb334818",
